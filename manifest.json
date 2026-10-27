@@ -1,0 +1,12 @@
+{
+  "name": "Panel Pamplona",
+  "short_name": "Panel",
+  "start_url": "/tv-panel-pamplona/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0a1428",
+  "theme_color": "#0a1428",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
